@@ -1,6 +1,11 @@
 # Keylogger
 Keyloggers are built for the act of keystroke logging — creating records of everything you type on a computer or mobile keyboard. These are used to quietly monitor your computer activity while you use your devices as normal. Keyloggers are used for legitimate purposes like feedback for software development but can be misused by criminals to steal your data.
 
+![Screenshot 2024-07-14 213257](https://github.com/user-attachments/assets/0b87cab8-e24a-4b74-ba1f-e1a97aaee29f)
+
+![Screenshot 2024-07-14 214028](https://github.com/user-attachments/assets/b3e50e37-948a-4600-8149-29c908e3f34d)
+
+
 ![Screenshot 2024-07-14 211433](https://github.com/user-attachments/assets/13702398-d965-41c8-8db9-3e7769a8ec84)
 
 ![Screenshot 2024-07-14 211718](https://github.com/user-attachments/assets/c8ed98fc-1a79-4104-bdb3-b257a9d86f39)
